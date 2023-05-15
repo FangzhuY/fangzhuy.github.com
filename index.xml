@@ -41,6 +41,22 @@
     </item>
     
     <item>
+      <title>How Do Racial Filters in Online Dating Apps Change Racial Homogamy?</title>
+      <link>https://fangzhuy.github.io/work-in-progress/onlinedating/</link>
+      <pubDate>Mon, 15 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://fangzhuy.github.io/work-in-progress/onlinedating/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Product Design Using Generative Adversarial Network: An Application in Artistic Template Design</title>
+      <link>https://fangzhuy.github.io/work-in-progress/unmanned/</link>
+      <pubDate>Mon, 15 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://fangzhuy.github.io/work-in-progress/unmanned/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>The Effect of China’s Universal Two-Child Policy on the Gender Inequality (Job Market Paper)</title>
       <link>https://fangzhuy.github.io/work-in-progress/tcp/</link>
       <pubDate>Mon, 15 May 2023 00:00:00 +0000</pubDate>
@@ -232,7 +248,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-734126859&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-758639124&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -242,7 +258,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-734126859&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-758639124&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -740,22 +756,6 @@ $$&lt;/p&gt;
       <link>https://fangzhuy.github.io/work-in-progress/delete/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://fangzhuy.github.io/work-in-progress/delete/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://fangzhuy.github.io/work-in-progress/onlinedating/delete/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://fangzhuy.github.io/work-in-progress/onlinedating/delete/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://fangzhuy.github.io/work-in-progress/unmanned/delete/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://fangzhuy.github.io/work-in-progress/unmanned/delete/</guid>
       <description></description>
     </item>
     
