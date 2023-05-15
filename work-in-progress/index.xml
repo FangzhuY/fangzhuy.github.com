@@ -1,40 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Work in Progresses | Fangzhu Yang&#39;s Homepage</title>
+    <title>Publications | Fangzhu Yang&#39;s Homepage</title>
     <link>https://fangzhuy.github.io/work-in-progress/</link>
       <atom:link href="https://fangzhuy.github.io/work-in-progress/index.xml" rel="self" type="application/rss+xml" />
-    <description>Work in Progresses</description>
+    <description>Publications</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
       <url>https://fangzhuy.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>Work in Progresses</title>
+      <title>Publications</title>
       <link>https://fangzhuy.github.io/work-in-progress/</link>
     </image>
-    
-    <item>
-      <title>How Do Racial Filters in Online Dating Apps Change Racial Homogamy?</title>
-      <link>https://fangzhuy.github.io/work-in-progress/onlinedating/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://fangzhuy.github.io/work-in-progress/onlinedating/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Product Design Using Generative Adversarial Network: An Application in Artistic Template Design</title>
-      <link>https://fangzhuy.github.io/work-in-progress/unmanned/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://fangzhuy.github.io/work-in-progress/unmanned/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The Effect of China’s Universal Two-Child Policy on the Gender Inequality (Job Market Paper)</title>
-      <link>https://fangzhuy.github.io/work-in-progress/tcp/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://fangzhuy.github.io/work-in-progress/tcp/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>
