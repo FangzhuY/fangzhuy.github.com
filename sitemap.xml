@@ -18,6 +18,14 @@
     <lastmod>2021-10-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://fangzhuy.github.io/workinprogress/tcp/</loc>
+    <lastmod>2021-10-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://fangzhuy.github.io/workinprogress/</loc>
+    <lastmod>2021-10-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://fangzhuy.github.io/working-papers/</loc>
     <lastmod>2021-10-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -94,9 +102,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://fangzhuy.github.io/publication_types/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://fangzhuy.github.io/workinprogress/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
