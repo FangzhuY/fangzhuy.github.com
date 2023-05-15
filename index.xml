@@ -33,6 +33,14 @@
     </item>
     
     <item>
+      <title>Financing Micro-entrepreneurship in Online Crowdfunding Markets: Local Preference versus Information Frictions</title>
+      <link>https://fangzhuy.github.io/working-papers/homebias/</link>
+      <pubDate>Sat, 15 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://fangzhuy.github.io/working-papers/homebias/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Welcome to Wowchemy, the website builder for Hugo</title>
       <link>https://fangzhuy.github.io/post/getting-started/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
@@ -216,7 +224,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-578341269&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-476182359&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -226,7 +234,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-578341269&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-476182359&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -716,38 +724,6 @@ $$&lt;/p&gt;
       <link>https://fangzhuy.github.io/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://fangzhuy.github.io/admin/config.yml</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Financing Micro-entrepreneurship in Online Crowdfunding Markets: Local Preference versus Information Frictions</title>
-      <link>https://fangzhuy.github.io/working-papers/homebias/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://fangzhuy.github.io/working-papers/homebias/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>How Do Racial Filters in Online Dating Apps Change Racial Homogamy?</title>
-      <link>https://fangzhuy.github.io/work-in-progress/onlinedating/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://fangzhuy.github.io/work-in-progress/onlinedating/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Product Design Using Generative Adversarial Network: An Application in Artistic Template Design</title>
-      <link>https://fangzhuy.github.io/work-in-progress/unmanned/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://fangzhuy.github.io/work-in-progress/unmanned/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The Effect of China’s Universal Two-Child Policy on the Gender Inequality (Job Market Paper)</title>
-      <link>https://fangzhuy.github.io/work-in-progress/tcp/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://fangzhuy.github.io/work-in-progress/tcp/</guid>
       <description></description>
     </item>
     
