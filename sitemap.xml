@@ -96,10 +96,7 @@
     <loc>https://fangzhuy.github.io/publication_types/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://fangzhuy.github.io/work-in-progress/tcp/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://fangzhuy.github.io/work-in-progress/</loc>
+    <loc>https://fangzhuy.github.io/workinprogress/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
