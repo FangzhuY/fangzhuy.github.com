@@ -14,6 +14,22 @@
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://fangzhuy.github.io/working-papers/homebias/</loc>
+    <lastmod>2023-05-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://fangzhuy.github.io/working-papers/</loc>
+    <lastmod>2023-05-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://fangzhuy.github.io/work-in-progress/tcp/</loc>
+    <lastmod>2023-05-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://fangzhuy.github.io/work-in-progress/</loc>
+    <lastmod>2023-05-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://fangzhuy.github.io/tag/academic/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -85,13 +101,16 @@
     <loc>https://fangzhuy.github.io/admin/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://fangzhuy.github.io/working-papers/homebias/</loc>
+    <loc>https://fangzhuy.github.io/work-in-progress/delete/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://fangzhuy.github.io/work-in-progress/onlinedating/delete/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://fangzhuy.github.io/work-in-progress/unmanned/delete/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://fangzhuy.github.io/publication_types/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://fangzhuy.github.io/working-papers/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
